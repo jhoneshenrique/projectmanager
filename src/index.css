@@ -1,0 +1,11 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; /*Avoid the inputs to trepass the div limit*/
+  font-family: 'Open Sans', sans-serif;
+}
+
+html, body, #root {
+  background-color: #EFEFEF;
+  height: 100%; /*Generate content on the page so that the footer goes to the bottom  */
+}
