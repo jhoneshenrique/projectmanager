@@ -54,6 +54,17 @@
       "cost": 0,
       "services": [],
       "id": 5
+    },
+    {
+      "name": "Implantação servidores Linux",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "budget": "10000",
+      "cost": 0,
+      "services": [],
+      "id": 6
     }
   ],
   "categories": [
